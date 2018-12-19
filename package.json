@@ -1,0 +1,22 @@
+{
+  "name": "employee-finder-node-and-express-servers",
+  "version": "1.0.0",
+  "description": "This is an Employee Finder application. This application site will take in results from your users' surveys,  then compare their answers with those from other users. The app will then display the name and picture of the  user with the best overall match.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjohn219/Employee-Finder-Node-and-Express-Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjohn219/Employee-Finder-Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/kjohn219/Employee-Finder-Node-and-Express-Servers#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
